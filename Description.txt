@@ -1,0 +1,7 @@
+Title: Telephones by Continents
+Author: Sandeep Patra
+AuthorUrl: https://github.com/spsandy101/
+License: Non
+DisplayMode: Showcase
+Tags: sidebarlayout helptext selectinput
+Type: Shiny
